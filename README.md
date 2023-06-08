@@ -1,5 +1,4 @@
 # Hotpot Battle
-https://hotpot-battle.herokuapp.com/ (Best played on monitors above 1200 x 800px)  
 
 ## Gameplay Preview
 ![image](https://user-images.githubusercontent.com/86651236/204081740-bdaa9f78-8dbd-4328-98dd-e680d208a00d.png)
